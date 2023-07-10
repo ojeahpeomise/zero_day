@@ -1,1 +1,1 @@
-First Readme using git application
+Readme for vagrant directory
